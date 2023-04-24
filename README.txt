@@ -1,1 +1,3 @@
-Hello I am Kadir and this is my portfolio.
+This is my portfolio.
+
+kadirbalalan.github.io
