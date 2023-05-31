@@ -2594,7 +2594,7 @@ input, select, textarea {
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
 		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
-		background-position: top left,							2px top;
+		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								112%;
 		color: rgba(255, 255, 255, 0.5);
@@ -3228,5 +3228,4 @@ input, select, textarea {
 	  .work-item-link {
 		border: none;
 	  }
-	  
 	  
